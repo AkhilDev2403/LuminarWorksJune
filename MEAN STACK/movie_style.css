@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&display=swap');
+
+.Main_head{
+    font-family: 'Big Shoulders Display', cursive;
+    text-align: center;
+}
+.movie{
+    width: 33%;
+    border: 1px solid rebeccapurple;
+    float: left;
+}
+.movie img{
+    width: 100%;
+}
+
+.parent{
+    width: 100%;
+}
+
+.col{
+    float: left;
+    width: 33%;
+    border: 1px solid rebeccapurple;
+}
+.col img{
+    width: 100%;
+}

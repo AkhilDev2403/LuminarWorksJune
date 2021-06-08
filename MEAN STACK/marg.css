@@ -1,0 +1,17 @@
+div{
+    width: 500px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.marg{
+    margin-left: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    padding-left: 100px
+    ;
+}
+.Bott{
+    margin-top: 50px;
+}

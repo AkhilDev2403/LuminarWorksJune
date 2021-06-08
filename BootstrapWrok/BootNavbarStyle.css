@@ -1,0 +1,24 @@
+.d{
+    
+    margin-right: 50px;
+    text-decoration: none;
+}
+.d1{
+
+    text-decoration: none;
+}
+.nav-item a:hover{
+    color: black
+}
+
+.bd-dwnld{
+    color: #ffe484;
+    border-color: #ffe484;
+
+}
+.bd-dwnld:hover,.bd-dwnld:active{
+    color: #2a2730;
+    background-color: #ffe484;
+    border-color: #ffe484;
+}
+

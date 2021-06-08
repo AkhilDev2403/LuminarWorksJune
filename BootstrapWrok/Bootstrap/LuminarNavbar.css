@@ -1,0 +1,111 @@
+.header-top{
+    background-color: #5e068a;
+    padding-bottom: 10px;
+   
+}
+
+.header-top a{
+    color: white;
+    font-size: 15px;
+}
+
+
+.dif{
+    padding: 15px;
+    margin-left: 500px;   
+}
+
+.rem a{
+    text-decoration: none;
+}
+
+.togg, .togg:hover{
+    margin-left: 60px;
+    color: black;
+
+}
+
+/*for carousel button view courses*/
+.btnslide{
+    background-color: #5e068a;
+    border-radius: 30px;
+    
+}
+
+/*to move head and para to top of the slide*/
+.carouseltop{
+    padding-bottom: 150px;
+    text-align: center;
+}
+
+.t{
+    text-align: center;
+    margin-left: 10px;
+}
+
+h4{
+    color: #5e068a;
+    font-size: 45px;
+}
+
+.btt{
+    margin-top: 10px;
+    background: #5e068a;
+    display: inline-block;
+    border-radius: 24px;  
+   
+}
+
+.btt a{
+    text-decoration: none;
+    
+}
+
+.about-img img{
+    float: right;
+    vertical-align: middle;
+}
+
+.header_sec h4{
+    margin-top: 20px;
+    text-align: center;
+    color: #5e068a;
+}
+
+.img_sec img{
+    width: 95%;
+    height: 350px;
+}
+
+.heading_sec_for_datascience a{
+    font-size: 30px;
+    text-decoration: none;
+    color: #947f9e;
+}
+
+.card_butt a{
+    background-color: #5e068a;
+    color: white;
+}
+
+.endbutton{
+    background-color: white;
+    border: 1px solid #5e068a;
+    border-radius: 30px;
+    color: #5e068a;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn1 a{
+    text-decoration: none;
+}
+
+.endbutton a:hover{
+    color: white;
+    background-color: #5e068a;
+}
+
+
+
